@@ -1,0 +1,2084 @@
+[20.07.2021 19:02:49] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:02:49] main-bot.py:104 INFO - Last ID (VK) = 2
+[20.07.2021 19:02:50] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:02:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:02:50] main-bot.py:144 INFO - [App] Script went to sleep.
+[20.07.2021 19:05:37] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:05:37] main-bot.py:104 INFO - Last ID (VK) = 2
+[20.07.2021 19:05:37] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:05:37] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:05:37] main-bot.py:144 INFO - [App] Script went to sleep.
+[20.07.2021 19:08:06] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:08:06] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:08:07] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:08:07] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:08:07] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:08:37] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:08:37] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:08:37] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:08:37] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:08:37] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:09:07] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:09:07] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:09:07] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:09:07] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:09:07] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:09:37] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:09:37] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:09:38] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:09:38] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:09:38] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:10:08] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:10:08] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:10:08] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:10:08] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:10:08] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:10:38] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:10:38] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:10:38] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:10:38] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:10:38] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:11:08] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:11:08] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:11:09] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:11:09] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:11:09] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:11:39] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:11:39] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:11:39] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:11:39] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:11:39] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:12:09] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:12:09] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:12:09] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:12:09] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:12:09] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:12:39] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:12:39] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:12:40] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:12:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:12:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:13:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:13:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:13:10] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:13:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:13:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:13:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:13:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:13:40] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:13:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:13:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:14:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:14:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:14:11] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:14:11] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:14:11] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:14:41] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:14:41] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:14:41] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:14:41] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:14:41] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:15:11] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:15:11] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:15:11] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:15:11] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:15:11] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:15:43] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:15:43] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:15:43] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:15:43] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:15:43] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:16:13] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:16:13] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:16:13] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:16:13] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:16:13] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:16:43] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:16:43] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:16:44] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:16:44] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:16:44] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:17:14] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:17:14] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:17:14] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:17:14] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:17:14] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:17:44] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:17:45] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:17:46] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:17:47] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:17:47] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:18:17] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:18:18] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:18:20] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:18:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:18:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:18:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:18:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:18:52] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:18:52] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:18:52] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:19:22] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:19:22] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:19:23] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:19:23] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:19:23] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:19:53] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:19:54] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:19:54] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:19:54] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:19:54] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:20:24] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:20:24] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:20:25] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:20:25] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:20:25] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:20:55] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:20:56] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:20:57] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:20:57] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:20:57] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:21:27] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:21:28] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:21:28] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:21:28] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:21:28] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:21:58] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:21:59] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:21:59] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:21:59] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:21:59] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:22:29] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:22:30] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:22:30] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:22:30] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:22:30] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:23:00] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:23:00] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:23:01] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:23:01] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:23:01] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:23:31] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:23:31] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:23:31] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:23:31] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:23:31] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:24:01] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:24:01] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:24:01] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:24:01] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:24:01] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:24:31] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:24:31] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:24:32] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:24:32] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:24:32] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:25:02] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:25:02] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:25:02] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:25:02] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:25:02] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:25:32] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:25:32] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:25:32] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:25:32] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:25:32] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:26:02] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:26:02] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:26:03] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:26:03] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:26:03] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:26:33] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:26:33] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:26:33] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:26:33] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:26:33] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:27:03] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:27:03] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:27:03] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:27:03] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:27:03] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:27:33] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:27:33] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:27:34] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:27:34] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:27:34] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:28:04] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:28:04] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:28:05] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:28:05] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:28:05] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:28:35] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:28:35] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:28:35] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:28:35] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:28:35] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:29:05] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:29:05] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:29:06] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:29:06] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:29:06] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:29:36] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:29:36] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:29:36] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:29:36] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:29:36] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:30:06] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:30:06] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:30:06] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:30:06] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:30:06] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:30:36] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:30:36] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:30:37] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:30:37] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:30:37] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:31:07] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:31:07] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:31:07] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:31:07] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:31:07] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:31:37] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:31:37] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:31:37] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:31:37] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:31:37] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:32:07] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:32:07] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:32:08] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:32:08] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:32:08] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:32:38] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:32:38] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:32:38] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:32:38] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:32:38] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:33:08] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:33:08] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:33:08] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:33:08] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:33:08] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:33:38] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:33:38] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:33:39] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:33:39] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:33:39] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:34:09] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:34:09] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:34:09] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:34:09] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:34:09] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:34:39] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:34:39] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:34:39] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:34:39] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:34:39] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:35:09] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:35:09] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:35:10] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:35:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:35:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:35:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:35:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:35:40] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:35:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:35:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:36:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:36:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:36:10] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:36:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:36:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:36:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:36:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:36:41] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:36:41] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:36:41] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:37:11] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:37:11] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:37:11] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:37:11] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:37:11] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:37:41] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:37:41] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:37:41] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:37:41] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:37:41] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:38:11] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:38:11] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:38:12] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:38:12] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:38:12] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:38:42] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:38:45] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:38:50] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:38:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:38:50] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:39:20] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:39:20] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:39:23] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:39:23] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:39:23] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:39:53] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:39:54] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:39:56] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:39:56] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:39:56] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:40:26] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:40:26] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:40:27] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:40:27] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:40:27] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:40:57] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:40:57] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:40:58] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:40:59] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:40:59] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:41:29] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:41:29] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:41:31] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:41:31] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:41:31] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:42:01] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:42:02] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:42:04] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:42:04] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:42:04] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:42:34] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:42:35] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:42:37] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:42:37] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:42:37] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:43:07] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:43:07] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:43:08] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:43:09] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:43:09] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:43:39] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:43:39] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:43:40] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:43:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:43:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:44:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:44:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:44:12] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:44:12] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:44:12] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:44:42] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:44:42] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:44:42] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:44:42] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:44:42] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:45:12] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:45:13] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:45:15] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:45:15] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:45:15] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:45:45] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:45:45] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:45:48] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:45:48] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:45:48] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:46:18] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:46:18] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:46:20] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:46:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:46:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:46:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:46:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:46:51] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:46:51] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:46:51] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:47:21] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:47:21] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:47:22] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:47:22] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:47:22] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:47:52] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:47:53] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:47:53] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:47:54] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:47:54] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:48:24] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:48:24] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:48:25] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:48:25] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:48:25] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:48:55] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:48:55] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:48:58] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:48:58] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:48:58] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:49:28] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:49:29] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:49:30] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:49:30] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:49:30] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:50:00] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:50:01] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:50:02] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:50:02] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:50:02] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:50:32] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:50:33] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:50:34] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:50:34] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:50:34] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:51:04] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:51:04] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:51:05] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:51:05] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:51:05] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:51:35] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:51:35] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:51:36] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:51:36] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:51:36] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:52:06] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:52:07] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:52:07] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:52:08] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:52:08] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:52:38] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:52:38] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:52:38] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:52:38] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:52:38] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:53:08] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:53:09] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:53:10] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:53:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:53:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:53:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:53:41] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:53:42] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:53:43] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:53:43] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:54:13] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:54:13] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:54:15] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:54:15] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:54:15] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:54:45] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:54:45] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:54:46] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:54:46] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:54:46] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:55:16] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:55:16] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:55:17] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:55:17] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:55:17] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:55:47] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:55:47] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:55:48] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:55:49] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:55:49] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:56:19] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:56:19] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:56:20] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:56:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:56:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:56:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:56:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:56:50] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:56:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:56:50] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:57:20] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:57:20] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:57:21] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:57:21] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:57:21] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:57:51] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:57:51] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:57:51] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:57:51] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:57:51] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:58:21] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:58:21] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:58:21] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:58:21] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:58:21] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:58:51] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:58:51] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:58:52] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:58:52] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:58:52] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:59:22] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:59:22] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:59:22] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:59:22] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:59:22] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 19:59:52] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 19:59:52] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 19:59:52] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 19:59:52] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 19:59:52] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:00:22] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:00:22] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:00:23] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:00:23] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:00:23] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:00:53] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:00:53] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:00:53] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:00:53] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:00:53] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:01:23] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:01:23] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:01:23] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:01:23] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:01:23] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:01:53] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:01:53] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:01:54] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:01:54] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:01:54] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:02:24] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:02:25] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:02:27] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:02:27] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:02:27] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:02:57] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:02:57] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:02:59] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:02:59] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:02:59] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:03:29] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:03:29] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:03:30] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:03:30] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:03:30] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:04:00] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:04:01] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:04:03] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:04:03] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:04:03] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:04:33] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:04:33] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:04:35] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:04:35] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:04:35] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:05:05] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:05:05] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:05:06] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:05:06] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:05:06] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:05:36] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:05:37] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:05:38] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:05:38] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:05:38] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:06:08] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:06:08] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:06:09] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:06:09] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:06:09] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:06:39] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:06:39] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:06:41] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:06:41] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:06:41] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:07:11] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:07:12] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:07:14] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:07:15] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:07:15] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:07:45] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:07:46] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:07:48] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:07:48] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:07:48] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:08:18] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:08:18] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:08:20] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:08:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:08:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:08:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:08:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:08:51] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:08:51] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:08:51] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:09:21] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:09:21] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:09:22] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:09:22] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:09:22] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:09:52] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:09:52] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:09:53] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:09:53] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:09:53] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:10:23] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:10:23] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:10:24] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:10:24] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:10:24] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:10:54] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:10:55] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:10:56] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:10:56] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:10:56] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:11:26] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:11:27] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:11:28] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:11:29] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:11:29] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:11:59] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:12:00] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:12:02] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:12:02] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:12:02] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:12:32] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:12:32] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:12:34] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:12:34] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:12:34] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:13:04] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:13:04] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:13:05] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:13:05] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:13:05] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:13:35] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:13:35] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:13:36] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:13:36] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:13:36] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:14:06] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:14:06] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:14:07] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:14:07] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:14:07] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:14:37] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:14:37] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:14:38] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:14:38] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:14:38] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:15:08] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:15:09] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:15:10] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:15:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:15:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:15:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:15:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:15:41] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:15:41] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:15:41] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:16:11] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:16:11] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:16:11] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:16:11] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:16:11] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:16:41] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:16:41] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:16:41] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:16:41] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:16:41] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:17:11] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:17:11] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:17:12] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:17:12] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:17:12] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:17:42] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:17:42] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:17:42] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:17:42] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:17:42] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:18:12] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:18:12] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:18:12] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:18:12] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:18:12] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:18:42] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:18:42] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:18:43] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:18:43] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:18:43] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:19:13] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:19:13] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:19:13] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:19:13] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:19:13] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:19:43] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:19:43] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:19:43] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:19:43] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:19:43] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:20:13] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:20:13] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:20:14] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:20:14] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:20:14] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:20:44] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:20:44] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:20:44] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:20:44] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:20:44] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:21:14] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:21:14] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:21:14] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:21:14] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:21:14] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:21:44] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:21:44] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:21:45] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:21:45] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:21:45] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:22:15] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:22:15] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:22:15] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:22:15] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:22:15] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:22:45] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:22:45] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:22:45] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:22:45] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:22:45] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:23:15] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:23:15] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:23:16] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:23:16] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:23:16] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:23:46] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:23:46] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:23:46] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:23:46] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:23:46] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:24:16] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:24:16] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:24:16] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:24:16] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:24:16] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:24:46] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:24:46] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:24:47] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:24:47] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:24:47] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:25:17] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:25:17] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:25:17] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:25:17] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:25:17] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:25:47] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:25:47] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:25:47] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:25:47] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:25:47] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:26:17] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:26:17] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:26:18] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:26:18] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:26:18] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:26:48] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:26:48] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:26:49] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:26:49] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:26:49] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:27:19] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:27:19] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:27:19] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:27:19] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:27:19] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:27:49] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:27:49] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:27:49] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:27:49] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:27:49] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:28:19] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:28:19] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:28:20] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:28:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:28:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:28:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:28:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:28:50] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:28:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:28:50] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:29:20] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:29:20] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:29:20] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB535340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:29:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:29:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:29:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:29:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:29:50] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB5351F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:29:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:29:50] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:30:20] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:30:20] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:30:20] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB535A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:30:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:30:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:30:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:30:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:30:50] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB535820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:30:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:30:50] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:31:20] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:31:20] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:31:20] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB535F10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:31:20] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:31:20] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:31:50] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:31:50] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:31:50] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB535A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:31:50] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:31:50] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:32:20] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:32:20] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:32:21] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:32:21] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:32:21] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:32:51] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:32:51] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:32:51] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:32:51] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:32:51] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:33:21] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:33:21] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:33:21] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:33:21] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:33:21] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:33:51] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:33:51] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:33:52] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:33:52] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:33:52] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:34:22] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:34:22] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:34:22] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:34:22] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:34:22] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:34:52] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:34:52] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:34:52] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:34:52] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:34:52] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:35:22] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:35:22] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:35:24] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:35:24] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:35:24] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:35:54] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:35:54] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:35:55] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:35:55] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:35:55] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:36:25] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:36:25] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:36:25] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:36:25] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:36:25] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:36:55] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:36:55] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:36:56] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:36:56] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:36:56] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:37:26] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:37:26] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:37:27] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:37:27] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:37:27] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:37:57] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:37:57] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:37:57] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:37:57] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:37:57] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:38:27] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:38:27] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:38:27] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:38:27] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:38:27] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:38:57] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:38:57] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:38:58] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:38:58] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:38:58] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:39:28] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:39:28] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:39:28] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:39:28] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:39:28] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:39:58] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:39:58] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:39:58] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:39:58] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:39:58] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:40:28] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:40:28] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:40:29] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:40:29] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:40:29] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:40:59] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:40:59] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:40:59] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:40:59] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:40:59] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:41:29] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:41:29] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:41:29] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:41:29] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:41:29] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:41:59] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:41:59] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:42:00] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:42:00] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:42:00] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:42:30] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:42:30] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:42:30] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:42:30] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:42:30] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:43:00] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:43:00] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:43:01] main-bot.py:128 ERROR - Exception of type KeyError in check_new_post(): 'response'
+[20.07.2021 20:43:01] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:43:01] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 20:43:31] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 20:43:31] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 20:43:31] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB5374C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 20:43:31] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 20:43:31] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:08:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:08:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:08:10] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB537490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:08:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:08:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:08:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:08:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:08:40] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB537430>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:08:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:08:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:09:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:09:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:09:10] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB537070>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:09:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:09:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:09:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:09:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:09:40] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB5373D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:09:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:09:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:10:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:10:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:10:10] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB5376A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:10:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:10:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:10:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:10:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:10:40] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB537040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:10:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:10:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:11:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:11:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:11:10] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB537370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:11:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:11:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:11:40] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:11:40] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:11:40] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB537460>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:11:40] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:11:40] main-bot.py:141 INFO - [App] Script went to sleep.
+[20.07.2021 22:12:10] main-bot.py:98 INFO - [VK] Started scanning for new posts
+[20.07.2021 22:12:10] main-bot.py:104 INFO - Last ID (VK) = 5
+[20.07.2021 22:12:10] main-bot.py:128 ERROR - Exception of type ConnectionError in check_new_post(): HTTPSConnectionPool(host='api.vk.com', port=443): Max retries exceeded with url: /method/wall.get?domain=du_dos_bot_group&count=10&filter=owner&access_token=3e9c2b3019a8c2de6cdfe2681c75d8817b9ccc5b45465d3e1ca1647e4b7daee9c081e347db2954ceafdde&v=5.68 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000015FEB5374F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[20.07.2021 22:12:10] main-bot.py:130 INFO - [VK] Finished scanning
+[20.07.2021 22:12:10] main-bot.py:141 INFO - [App] Script went to sleep.
+[31.01.2022 18:50:58] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:50:58] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:50:58] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:50:58] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:50:58] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:51:28] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:51:28] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:51:28] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:51:28] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:51:28] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:51:58] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:51:58] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:51:58] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:51:58] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:51:58] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:52:28] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:52:28] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:52:28] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:52:28] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:52:28] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:52:58] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:52:58] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:52:58] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:52:58] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:52:58] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:53:28] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:53:28] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:53:28] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:53:28] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:53:28] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:53:58] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:53:58] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:53:58] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:53:58] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:53:58] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:54:28] <ipython-input-15-b6b960a5da4e>:25 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:54:28] <ipython-input-15-b6b960a5da4e>:31 INFO - Last ID (VK) = 5
+[31.01.2022 18:54:28] <ipython-input-15-b6b960a5da4e>:55 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:54:28] <ipython-input-15-b6b960a5da4e>:57 INFO - [VK] Finished scanning
+[31.01.2022 18:54:28] <ipython-input-15-b6b960a5da4e>:68 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:06] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:06] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:06] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:06] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:06] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:07] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:07] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:07] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:07] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:07] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:08] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:08] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:08] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:08] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:08] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:09] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:09] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:09] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:09] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:09] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:10] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:10] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:10] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:10] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:10] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:11] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:11] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:11] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:11] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:11] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:12] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:12] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:12] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:12] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:12] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:13] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:13] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:13] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:13] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:13] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:14] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:14] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:14] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:14] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:14] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:15] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:15] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:15] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:15] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:15] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:16] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:16] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:16] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:16] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:16] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:17] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:17] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:17] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:17] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:17] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:18] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:18] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:18] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:18] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:18] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:19] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:20] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:20] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:20] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:20] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:21] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:21] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:21] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:21] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:21] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:22] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:22] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:22] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:22] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:22] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:23] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:23] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:23] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:23] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:23] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:24] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:24] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:24] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:24] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:24] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:25] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:25] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:25] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:25] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:25] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:26] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:26] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:26] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:26] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:26] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:27] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:27] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:27] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:27] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:27] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:28] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:28] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:28] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:28] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:28] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:29] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:29] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:29] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:29] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:29] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:30] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:30] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:30] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:30] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:30] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:31] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:31] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:31] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:31] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:31] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:32] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:32] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:32] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:32] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:32] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:33] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:33] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:33] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:33] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:33] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:34] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:34] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:34] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:34] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:34] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:35] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:35] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:35] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:35] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:35] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:36] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:36] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:36] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:36] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:36] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:37] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:37] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:37] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:37] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:37] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:38] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:38] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:38] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:38] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:38] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:39] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:39] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:39] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:39] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:39] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:40] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:40] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:40] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:40] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:40] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:41] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:41] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:41] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:41] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:41] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:42] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:42] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:42] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:42] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:42] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:43] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:43] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:43] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:43] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:43] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:44] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:44] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:44] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:44] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:44] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:45] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:45] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:45] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:45] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:45] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:46] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:46] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:46] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:46] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:46] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:47] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:47] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:47] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:47] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:47] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:48] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:48] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:48] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:48] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:48] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:49] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:49] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:49] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:49] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:49] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:50] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:50] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:50] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:50] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:50] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:51] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:51] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:51] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:51] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:51] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:52] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:52] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:52] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:52] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:52] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:53] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:53] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:53] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:53] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:53] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:54] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:54] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:54] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:54] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:54] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:55] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:55] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:55] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:55] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:55] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:56] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:56] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:56] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:56] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:56] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:57] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:57] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:57] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:57] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:57] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:58] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:58] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:58] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:58] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:58] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:56:59] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:56:59] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:56:59] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:56:59] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:56:59] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:00] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:00] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:00] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:00] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:00] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:01] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:01] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:01] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:01] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:01] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:02] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:02] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:02] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:02] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:02] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:03] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:03] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:03] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:03] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:03] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:04] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:04] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:04] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:04] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:04] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:05] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:05] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:05] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:05] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:05] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:06] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:06] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:06] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:06] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:06] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:07] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:07] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:07] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:07] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:07] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:08] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:08] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:08] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:08] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:08] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:09] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:09] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:09] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:09] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:09] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:10] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:10] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:10] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:10] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:10] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:11] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:11] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:11] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:11] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:11] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:12] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:12] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:12] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:12] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:12] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:13] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:13] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:13] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:13] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:13] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:14] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:14] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:14] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:14] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:14] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:15] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:15] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:15] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:15] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:15] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:16] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:16] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:16] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:16] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:16] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:17] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:17] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:17] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:17] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:17] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:18] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:18] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:18] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:18] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:18] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:19] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:19] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:19] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:19] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:19] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:20] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:20] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:20] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:20] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:20] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:21] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:21] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:21] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:21] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:21] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:22] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:22] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:22] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:22] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:22] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:23] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:23] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:23] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:23] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:23] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:24] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:24] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:24] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:24] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:24] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:25] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:25] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:25] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:25] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:25] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:26] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:26] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:26] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:26] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:26] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:27] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:27] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:27] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:27] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:27] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:28] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:28] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:28] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:28] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:28] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:29] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:29] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:29] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:29] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:29] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:30] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:30] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:30] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:30] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:30] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:31] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:31] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:31] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:31] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:31] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:32] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:32] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:32] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:32] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:32] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:33] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:33] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:33] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:33] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:33] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:34] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:34] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:34] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:34] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:34] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:35] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:35] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:35] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:35] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:35] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:36] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:36] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:36] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:36] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:36] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:37] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:37] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:37] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:37] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:37] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:38] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:38] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:38] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:38] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:38] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:39] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:39] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:39] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:39] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:39] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:40] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:40] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:40] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:40] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:40] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:41] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:41] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:41] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:41] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:41] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:42] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:42] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:42] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:42] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:42] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:43] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:43] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:43] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:43] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:43] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:44] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:44] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:44] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:44] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:44] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:45] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:45] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:45] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:45] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:45] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:46] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:46] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:46] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:46] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:46] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:47] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:47] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:47] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:47] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:47] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:48] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:48] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:48] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:48] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:48] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:49] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:49] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:49] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:49] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:49] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:51] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:51] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:51] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:51] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:51] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:52] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:52] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:52] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:52] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:52] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:53] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:53] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:53] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:53] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:53] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:54] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:54] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:54] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:54] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:54] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:55] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:55] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:55] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:55] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:55] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:56] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:56] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:56] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:56] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:56] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:57] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:57] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:57] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:57] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:57] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:58] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:58] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:58] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:58] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:58] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:57:59] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:57:59] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:57:59] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:57:59] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:57:59] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:00] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:00] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:00] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:00] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:00] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:01] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:01] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:01] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:01] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:01] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:02] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:02] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:02] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:02] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:02] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:03] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:03] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:03] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:03] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:03] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:04] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:04] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:04] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:04] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:04] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:05] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:05] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:05] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:05] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:05] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:06] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:06] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:06] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:06] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:06] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:07] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:07] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:07] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:07] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:07] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:08] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:08] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:08] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:08] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:08] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:09] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:09] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:09] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:09] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:09] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:10] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:10] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:10] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:10] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:10] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:11] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:11] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:11] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:11] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:11] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:12] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:12] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:12] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:12] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:12] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:13] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:13] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:13] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:13] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:13] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:14] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:14] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:14] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:14] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:14] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:15] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:15] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:15] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:15] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:15] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:16] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:16] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:16] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:16] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:16] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:17] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:17] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:17] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:17] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:17] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:18] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:18] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:18] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:18] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:18] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:19] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:19] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:19] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:19] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:19] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:20] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:20] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:20] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:20] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:20] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:21] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:21] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:21] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:21] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:21] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:22] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:22] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:22] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:22] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:22] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:23] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:23] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:23] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:23] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:23] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:24] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:24] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:24] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:24] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:24] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:25] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:25] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:25] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:25] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:25] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:26] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:26] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:26] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:26] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:26] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:27] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:27] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:27] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:27] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:27] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:28] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:28] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:28] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:28] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:28] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:29] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:29] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:29] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:29] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:29] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:30] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:30] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:30] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:30] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:30] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:31] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:31] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:31] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:31] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:31] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:32] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:32] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:32] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:32] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:32] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:33] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:33] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:33] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:33] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:33] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:34] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:34] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:34] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:34] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:34] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:35] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:35] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:35] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:35] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:35] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:36] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:36] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:36] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:36] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:36] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:37] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:37] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:37] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:37] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:37] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:38] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:38] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:38] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:38] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:38] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:39] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:39] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:39] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:39] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:39] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:40] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:40] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:40] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:40] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:40] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:41] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:41] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:41] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:41] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:41] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:42] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:42] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:42] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:42] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:42] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:43] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:43] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:43] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:43] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:43] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:44] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:44] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:44] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:44] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:44] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:45] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:45] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:45] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:45] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:45] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:46] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:46] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:46] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:46] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:46] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:47] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:47] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:47] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:47] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:47] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:48] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:48] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:48] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:48] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:48] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:49] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:49] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:49] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:49] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:49] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:50] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:50] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:50] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:50] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:50] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:51] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:51] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:51] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:51] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:51] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:52] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:52] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:52] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:52] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:52] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:53] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:53] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:53] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:53] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:53] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:54] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:54] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:54] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:54] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:54] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:55] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:55] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:55] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:55] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:55] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:56] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:56] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:56] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:56] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:56] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:57] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:57] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:57] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:57] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:57] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:58] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:58] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:58] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:58] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:58] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:58:59] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:58:59] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:58:59] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:58:59] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:58:59] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:00] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:00] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:00] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:00] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:00] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:01] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:01] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:01] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:01] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:01] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:02] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:02] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:02] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:02] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:02] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:03] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:03] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:03] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:03] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:03] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:04] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:04] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:04] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:04] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:04] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:05] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:05] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:05] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:05] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:05] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:06] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:06] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:06] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:06] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:06] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:07] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:07] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:07] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:07] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:07] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:08] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:08] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:08] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:08] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:08] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:09] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:09] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:09] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:09] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:09] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:10] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:10] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:10] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:10] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:10] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:11] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:11] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:11] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:11] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:11] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:12] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:12] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:12] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:12] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:12] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:13] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:13] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:13] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:13] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:13] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:14] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:14] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:14] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:14] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:14] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:15] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:15] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:15] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:15] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:15] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:16] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:16] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:16] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:16] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:16] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:17] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:17] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:17] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:17] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:17] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:18] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:18] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:18] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:18] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:18] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:19] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:19] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:19] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:19] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:19] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:20] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:20] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:20] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:20] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:20] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:21] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:21] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:21] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:21] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:21] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:22] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:22] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:22] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:22] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:22] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:23] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:23] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:23] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:23] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:23] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:24] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:24] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:24] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:24] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:24] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:25] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:25] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:25] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:25] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:25] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:26] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:26] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:26] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:26] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:26] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:27] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:27] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:27] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:27] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:27] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:28] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:28] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:28] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:28] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:28] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:29] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:29] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:29] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:29] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:29] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:30] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:30] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:30] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:30] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:30] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:31] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:31] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:31] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:31] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:31] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:33] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:33] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:33] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:33] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:33] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[31.01.2022 18:59:34] <ipython-input-29-faaf6a802838>:3 INFO - [VK] Started scanning for new posts
+[31.01.2022 18:59:34] <ipython-input-29-faaf6a802838>:9 INFO - Last ID (VK) = 5
+[31.01.2022 18:59:34] <ipython-input-29-faaf6a802838>:33 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[31.01.2022 18:59:34] <ipython-input-29-faaf6a802838>:35 INFO - [VK] Finished scanning
+[31.01.2022 18:59:34] <ipython-input-30-3360e5963af7>:9 INFO - [App] Script went to sleep.
+[01.02.2022 01:20:17] <ipython-input-45-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:20:17] <ipython-input-45-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:20:17] <ipython-input-45-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:20:17] <ipython-input-45-7e6c98998a28>:31 INFO - [VK] Finished scanning
+[01.02.2022 01:27:27] <ipython-input-14-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:27:27] <ipython-input-14-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:27:27] <ipython-input-14-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:27:27] <ipython-input-14-7e6c98998a28>:31 INFO - [VK] Finished scanning
+[01.02.2022 01:27:27] <ipython-input-15-ac4278163cf2>:8 INFO - [App] Script went to sleep.
+[01.02.2022 01:28:41] <ipython-input-14-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:28:41] <ipython-input-14-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:28:41] <ipython-input-14-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:28:41] <ipython-input-14-7e6c98998a28>:31 INFO - [VK] Finished scanning
+[01.02.2022 01:29:30] <ipython-input-20-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:29:30] <ipython-input-20-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:29:30] <ipython-input-20-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:29:30] <ipython-input-20-7e6c98998a28>:31 INFO - [VK] Finished scanning
+[01.02.2022 01:30:36] <ipython-input-13-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:30:36] <ipython-input-13-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:30:36] <ipython-input-13-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:30:36] <ipython-input-13-7e6c98998a28>:31 INFO - [VK] Finished scanning
+[01.02.2022 01:41:56] <ipython-input-13-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:41:56] <ipython-input-13-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:41:56] <ipython-input-13-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:41:56] <ipython-input-13-7e6c98998a28>:31 INFO - [VK] Finished scanning
+[01.02.2022 01:45:14] <ipython-input-13-7e6c98998a28>:2 INFO - [VK] Started scanning for new posts
+[01.02.2022 01:45:14] <ipython-input-13-7e6c98998a28>:8 INFO - Last ID (VK) = 8
+[01.02.2022 01:45:14] <ipython-input-13-7e6c98998a28>:29 ERROR - Exception of type NameError in check_new_post(): name 'eventlet' is not defined
+[01.02.2022 01:45:14] <ipython-input-13-7e6c98998a28>:31 INFO - [VK] Finished scanning
